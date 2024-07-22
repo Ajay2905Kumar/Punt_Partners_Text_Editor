@@ -1,0 +1,22 @@
+.toggleButton{
+    min-width: 2vw;
+    width: 2.5vw;
+    border-radius: 27.5%;
+    background-color: grey;
+    height: 3vh;
+    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 3px;
+}
+.toggleCircle{
+    border-radius: 50%;
+    width: 2.5vh;
+    height: 2.5vh;
+    background-color: white;
+}
+.textAreaEditor{
+    width: 20vw;
+    height: 20vh;
+}
